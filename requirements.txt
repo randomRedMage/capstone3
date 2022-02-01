@@ -4,3 +4,4 @@ sklearn
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
+IPython
