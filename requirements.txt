@@ -8,3 +8,4 @@ IPython
 dataprep
 seaborn
 cryptography
+os
